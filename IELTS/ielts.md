@@ -7,3 +7,4 @@
 
 - ## Week 2
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/720407896550596)
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/600534788809818)
