@@ -1,0 +1,6 @@
+- ## Week 1
+   1. [Day 1](https://www.facebook.com/iCodeguru/videos/236347742469072)
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/1157927708933361)
+   3. [Day 3]()
+   4. [Day 4]()
+   5. [Day 5]()
