@@ -1,3 +1,5 @@
+# Data Structure and Algorithms
+
 - ## Week 1
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/7020111454720026)
