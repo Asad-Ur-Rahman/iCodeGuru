@@ -15,3 +15,4 @@
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/286194531066314)
    4. [Day 4](https://fb.watch/nN6ZEEuSh8/?mibextid=2JQ9oc)
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/1055654188912439)
+[Space and Time complexity using basic Data Structures Workshop](https://fb.watch/nRfmj6WYPv/?mibextid=2JQ9oc)
