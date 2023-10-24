@@ -11,3 +11,4 @@
 - ## Week 2
   
    1. [Day 1](https://fb.watch/nS6uzeHyD3/?mibextid=2JQ9oc)
+2. [Day 2](https://fb.watch/nTgVLwCirM/?mibextid=2JQ9oc)
