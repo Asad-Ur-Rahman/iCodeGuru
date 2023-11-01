@@ -29,6 +29,6 @@
 
    1. [Day 1](https://fb.watch/n-zx-_t2k-/?mibextid=2JQ9oc)
    2. [Day 2](https://fb.watch/o0Uh03SjSg/?mibextid=2JQ9oc)
-   3. [Day 3]()
+   3. [Day 3](https://fb.watch/o2fhB7-WfK/?mibextid=2JQ9oc)
    4. [Day 4]()
    5. [Day 5]()
