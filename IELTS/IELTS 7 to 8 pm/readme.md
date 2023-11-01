@@ -20,7 +20,7 @@
 
    1. [Day 1](https://fb.watch/n-znJDRGdG/?mibextid=2JQ9oc)
    2. [Day 2](https://fb.watch/o0O4hhJAwo/?mibextid=2JQ9oc)
-   3. [Day 3]()
+   3. [Day 3](https://fb.watch/o2feLxq0Eb/?mibextid=2JQ9oc)
    4. [Day 4]()
    5. [Day 5]()
 
