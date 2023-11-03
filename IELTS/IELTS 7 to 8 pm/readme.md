@@ -22,7 +22,7 @@
    2. [Day 2](https://fb.watch/o0O4hhJAwo/?mibextid=2JQ9oc)
    3. [Day 3](https://fb.watch/o2feLxq0Eb/?mibextid=2JQ9oc)
    4. Day 4 no recording available 
-   5. [Day 5]()
+   5. [Day 5](https://fb.watch/o4-MuWXBC2/?mibextid=2JQ9oc)
 
 <!-- - ## Week 4
 
