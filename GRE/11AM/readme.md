@@ -30,4 +30,4 @@
    2. Day 2 - no session
    3. [Day 3](https://fb.watch/ob0kdOrmDO/?mibextid=2JQ9oc)
    4. [Day 4](https://fb.watch/ocpZ84iQ_6/?mibextid=2JQ9oc)
-   5. [Day 5]()
+   5. [Day 5](https://fb.watch/of0uATG94o/?mibextid=2JQ9oc)
