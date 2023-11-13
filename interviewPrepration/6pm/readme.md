@@ -260,7 +260,7 @@
 
 - ## Week 30
 
-   1. [Day 1]()
+   1. [Day 1](https://fb.watch/ohW7zL-ogn/?mibextid=2JQ9oc)
    2. [Day 2]()
    3. [Day 3]()
    4. [Day 4]()
