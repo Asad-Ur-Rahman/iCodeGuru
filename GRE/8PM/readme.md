@@ -11,7 +11,7 @@
 - ## Week 2
 
    1. [Day 1](https://fb.watch/ohZLu7kNbu/?mibextid=2JQ9oc)
-   2. [Day 2]()
-   3. [Day 3]()
+   2. [Day 2](https://fb.watch/okF83P87cX/?mibextid=2JQ9oc)
+   3. [Day 3](https://fb.watch/okF4gJPCuf/?mibextid=2JQ9oc)
    4. [Day 4]()
    5. [Day 5]()
