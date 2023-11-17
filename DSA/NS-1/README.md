@@ -47,7 +47,7 @@
    2. [Day 2](https://fb.watch/ojs3WjXsd6/?mibextid=2JQ9oc)
    3. [Day 3](https://fb.watch/okOB7u0lpn/?mibextid=2JQ9oc)
    4. [Day 4](https://fb.watch/om8S-ZG5En/?mibextid=2JQ9oc)
-   5. [Day 5]()
+   5. [Day 5](https://fb.watch/onjltY3rGM/?mibextid=2JQ9oc)
 
 <!-- - ## Week 7
 
