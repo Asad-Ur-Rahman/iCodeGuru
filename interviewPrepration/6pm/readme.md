@@ -268,7 +268,7 @@
 
 - ## Week 31
 
-   1. [Day 1]()
+   1. [Day 1](https://fb.watch/or81-zuggK/?mibextid=2JQ9oc)
    2. [Day 2]()
    3. [Day 3]()
    4. [Day 4]()
