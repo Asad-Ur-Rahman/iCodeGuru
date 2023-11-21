@@ -43,7 +43,7 @@
 <!-- - ## Week 6
 
    1. [Day 1](https://fb.watch/or8g5LQQTY/?mibextid=2JQ9oc)
-   2. [Day 2]()
+   2. [Day 2](https://fb.watch/osIvubHX4F/?mibextid=2JQ9oc)
    3. [Day 3]()
    4. [Day 4]()
    5. [Day 5]() -->
