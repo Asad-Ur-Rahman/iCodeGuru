@@ -270,7 +270,7 @@
 
    1. [Day 1](https://fb.watch/or81-zuggK/?mibextid=2JQ9oc)
    2. [Day 2](https://fb.watch/osItg5dA99/?mibextid=2JQ9oc)
-   3. [Day 3]()
+   3. [Day 3](https://fb.watch/ouJKRgq31y/?mibextid=2JQ9oc)
    4. [Day 4]()
    5. [Day 5]()
 
