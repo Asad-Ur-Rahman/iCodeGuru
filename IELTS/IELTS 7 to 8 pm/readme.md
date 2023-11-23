@@ -40,10 +40,10 @@
    4. [Day 4](https://fb.watch/ol_LJIcL5O/?mibextid=2JQ9oc)
    5. [Day 5](https://fb.watch/onjqIx2qEt/?mibextid=2JQ9oc)
 
-<!-- - ## Week 6
+- ## Week 6
 
    1. [Day 1](https://fb.watch/or8g5LQQTY/?mibextid=2JQ9oc)
    2. [Day 2](https://fb.watch/osIvubHX4F/?mibextid=2JQ9oc)
    3. [Day 3](https://fb.watch/ouJIs9AplH/?mibextid=2JQ9oc)
-   4. [Day 4]()
-   5. [Day 5]() -->
+   4. [Day 4](https://www.facebook.com/iCodeguru/videos/996434858119274)
+   5. [Day 5]()
