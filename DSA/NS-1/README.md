@@ -54,7 +54,7 @@
    1. [Day 1](https://fb.watch/orfoRBgwRe/?mibextid=2JQ9oc)
    2. [Day 2](https://fb.watch/osIzazEwIj/?mibextid=2JQ9oc)
    3. Day 3 Session on AI
-   4. [Day 4]()
+   4. [Day 4](https://fb.watch/ovcJvzGo_5/?mibextid=2JQ9oc)
    5. [Day 5]()
 
 <!-- - ## Week 8
