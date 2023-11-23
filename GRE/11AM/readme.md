@@ -37,6 +37,4 @@
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/247651514671150)
    2. [Day 2](https://fb.watch/okw0zwAXif/?mibextid=2JQ9oc)
 
-
-
-session concluded 
+session concluded
