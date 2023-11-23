@@ -21,7 +21,7 @@
    1. [Day 1](https://fb.watch/ordymgcw28/?mibextid=2JQ9oc)
    2. [Day 2](https://fb.watch/osIxcLBtQ0/?mibextid=2JQ9oc)
    3. [Day 3](https://fb.watch/ouJGaACSHw/?mibextid=2JQ9oc)
-   4. [Day 4]()
+   4. [Day 4](https://www.facebook.com/iCodeguru/videos/1562012737666287)
    5. [Day 5]()
 
 <!-- - ## Week 4
