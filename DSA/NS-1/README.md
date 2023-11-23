@@ -53,7 +53,7 @@
 
    1. [Day 1](https://fb.watch/orfoRBgwRe/?mibextid=2JQ9oc)
    2. [Day 2](https://fb.watch/osIzazEwIj/?mibextid=2JQ9oc)
-   3. [Day 3]()
+   3. Day 3 Session on AI
    4. [Day 4]()
    5. [Day 5]()
 
