@@ -55,7 +55,7 @@
    2. [Day 2](https://fb.watch/osIzazEwIj/?mibextid=2JQ9oc)
    3. Day 3 Session on AI
    4. [Day 4](https://fb.watch/ovcJvzGo_5/?mibextid=2JQ9oc)
-   5. [Day 5]()
+   5. [Day 5](https://www.facebook.com/iCodeguru/videos/1397808284455229)
 
 <!-- - ## Week 8
 
