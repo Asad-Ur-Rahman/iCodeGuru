@@ -7,6 +7,7 @@
    3. [Day 3]()
    4. [Day 4](https://fb.watch/ouJPoCXwAo/?mibextid=2JQ9oc)
    5. [Day 5]()
+
 <!-- - ## Week 7
 
    1. [Day 1]()
