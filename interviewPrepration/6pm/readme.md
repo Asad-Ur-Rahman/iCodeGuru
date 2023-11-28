@@ -274,9 +274,17 @@
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/889393056245777)
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/675842971352411)
 
-<!-- - ## Week 6
+- ## Week 32
 
    1. [Day 1](https://fb.watch/oAo9tqVBbd/?mibextid=2JQ9oc)
+   2. [Day 2]()
+   3. [Day 3]()
+   4. [Day 4]()
+   5. [Day 5]()
+
+<!-- - ## Week 6
+
+   1. [Day 1]()
    2. [Day 2]()
    3. [Day 3]()
    4. [Day 4]()
