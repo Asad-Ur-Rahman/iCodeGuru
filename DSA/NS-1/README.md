@@ -57,10 +57,18 @@
    4. [Day 4](https://fb.watch/ovcJvzGo_5/?mibextid=2JQ9oc)
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/1397808284455229)
 
-<!-- - ## Week 8
+- ## Week 8
 
    1. [Day 1](https://fb.watch/oAu5Pjgx1B/?mibextid=2JQ9oc)
    2. [Day 2](https://fb.watch/oC7u1L8ykS/?mibextid=2JQ9oc)
+   3. [Day 3]()
+   4. [Day 4]()
+   5. [Day 5]()
+
+<!-- - ## Week
+
+   1. [Day 1]()
+   2. [Day 2]()
    3. [Day 3]()
    4. [Day 4]()
    5. [Day 5]() -->
