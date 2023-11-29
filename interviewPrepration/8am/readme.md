@@ -12,7 +12,7 @@
 
    1. [Day 1](https://fb.watch/oAo5anAYSN/?mibextid=2JQ9oc)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/191335860705141)
-   3. [Day 3]()
+   3. [Day 3](https://fb.watch/oCMWqZGoAD/?mibextid=2JQ9oc)
    4. [Day 4]()
    5. [Day 5]()
 
