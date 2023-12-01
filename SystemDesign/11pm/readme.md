@@ -13,8 +13,8 @@
    1. Day 1 - no recording available 
    2. [Day 2](https://fb.watch/oCjcMip2Oq/?mibextid=2JQ9oc)
    3. [Day 3](https://fb.watch/oDezHAEZ8k/?mibextid=2JQ9oc)
-   4. [Day 4]()
-   5. [Day 5](
+   4. [Day 4](https://fb.watch/oFKRW46Bhh/?mibextid=2JQ9oc)
+   5. [Day 5](https://fb.watch/oFSI6H079H/?mibextid=2JQ9oc)
 <!-- - ## Week 7
 
    1. [Day 1]()
