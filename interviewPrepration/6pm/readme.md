@@ -286,7 +286,7 @@
 
    1. [Day 1](https://fb.watch/oJCt5sG9pg/?mibextid=2JQ9oc)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/1550722465782187)
-   3. [Day 3]()
+   3. [Day 3](https://www.facebook.com/iCodeguru/videos/337128265621558)
    4. [Day 4]()
    5. [Day 5]()
 
