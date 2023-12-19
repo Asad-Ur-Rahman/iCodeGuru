@@ -7,7 +7,7 @@
 
 <!-- - ## Week 2
 
-   1. [Day 1]()
+   1. [Day 1](https://www.facebook.com/iCodeguru/videos/3335740576572466)
    2. [Day 2]() -->
 
 <!-- - ## Week 
