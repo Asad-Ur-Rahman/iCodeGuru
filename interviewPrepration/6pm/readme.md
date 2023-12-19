@@ -301,7 +301,7 @@
 - ## Week 35
 
    1. [Day 1](https://web.facebook.com/iCodeguru/videos/343916115022541)
-   2. [Day 2]()
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/377125165078126)
    3. [Day 3]()
    4. [Day 4]()
    5. [Day 5]()
