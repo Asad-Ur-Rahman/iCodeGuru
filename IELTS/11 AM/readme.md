@@ -8,6 +8,14 @@
    4. Day 4 - no recording
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/870432921206849)
 
+- ## Week 2
+
+   1. [Day 1](https://www.facebook.com/iCodeguru/videos/909259867212804)
+   2. [Day 2]()
+   3. [Day 3]()
+   4. [Day 4]()
+   5. [Day 5]()
+
 <!-- - ## Week 
 
    1. [Day 1]()
