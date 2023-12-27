@@ -1,4 +1,4 @@
-# Data Structure and Algorithms
+# Data Structure and Algorithms 9PM Session
 
 - ## Week 1
 
