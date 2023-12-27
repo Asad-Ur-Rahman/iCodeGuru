@@ -44,9 +44,9 @@
 
    1. Day 1 - no session
    2. Day 2 - no session
-   3. [Day 3]()
-   4. [Day 4]()
-   5. [Day 5]()
+   3. Day 3- no session
+   4. Day 4- no session
+   5. Day 5- no session
 
 <!-- - ## Week 
 
