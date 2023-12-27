@@ -1,10 +1,10 @@
-# Data Structure and Algorithms
+# Data Structure and Algorithms 4PM Session
 
 - ## Week 1
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/945502893838177)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/735209295336122)
-   3. [Day 3]()
+   3. [Day 3](https://www.facebook.com/iCodeguru/videos/744843644212863)
    4. [Day 4]()
    5. [Day 5]()
 
