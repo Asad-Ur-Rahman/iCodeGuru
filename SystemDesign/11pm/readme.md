@@ -45,7 +45,7 @@
    1. Day 1 - no session
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/3404829259739465)
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/1419819082264013)
-   4. [Day 4]()
+   4. [Day 4](https://www.facebook.com/iCodeguru/videos/1070769640658726)
    5. [Day 5]()
 
 <!-- - ## Week 
