@@ -56,6 +56,8 @@
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/369023872476161)
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/1050235109515912)
 
+Session concluded
+
 <!-- - ## Week 9
 
    1. [Day 1]()
