@@ -312,11 +312,11 @@
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/333134709668876)
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/378058121392233)
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/710664291282295)
-   5. [Day 5]()
+   5. Day 5 - no recording
 
 <!-- - ## Week 
 
-   1. [Day 1]()
+   1. [Day 1](https://web.facebook.com/iCodeguru/videos/3567139733544653)
    2. [Day 2]()
    3. [Day 3]()
    4. [Day 4]()
