@@ -2,7 +2,7 @@
 
 - ## Week 1
 
-   1. [Day 1](https://fb.watch/ormO5UwZJx/?mibextid=2JQ9oc)
+   1. [Day 1](https://web.facebook.com/iCodeguru/videos/727275318820411)
    2. [Day 2](https://web.facebook.com/watch/live/?ref=watch_permalink&v=848852393608174)
    3. [Day 3](https://fb.watch/ouJD44WxCM/?mibextid=2JQ9oc)
    4. [Day 4](https://fb.watch/ovkIGf46hD/?mibextid=2JQ9oc)
