@@ -48,6 +48,14 @@
    4. Day 4- no session
    5. Day 5- no session
 
+- ## Week 7
+
+   1. Day 1 - no class
+   2. [Day 2]()
+   3. [Day 3]()
+   4. [Day 4]()
+   5. [Day 5]()
+
 <!-- - ## Week 
 
    1. [Day 1]()
