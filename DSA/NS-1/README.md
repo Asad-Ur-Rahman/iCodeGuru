@@ -97,13 +97,13 @@
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/731508542252468)
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/1884598591959189)
 
-<!-- - ## Week
+- ## Week 13 A beginners guide to hackathon NextGen GPT AI
 
-   1. [Day 1]()
+   1. [Day 1](https://www.facebook.com/iCodeguru/videos/1306324723388024)
    2. [Day 2]()
    3. [Day 3]()
    4. [Day 4]()
-   5. [Day 5]() -->
+   5. [Day 5]()
 
 <!-- - ## Week
 
