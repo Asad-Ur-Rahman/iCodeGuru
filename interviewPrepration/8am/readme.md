@@ -52,7 +52,7 @@
 
    1. Day 1 - no class
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/650288460407587)
-   3. [Day 3]()
+   3. [Day 3](https://www.facebook.com/iCodeguru/videos/742188017782421)
    4. [Day 4]()
    5. [Day 5]()
 
