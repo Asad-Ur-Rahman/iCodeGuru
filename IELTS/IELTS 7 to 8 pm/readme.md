@@ -91,8 +91,8 @@
 - ## Week 12
 
    1. [Day 1](https://web.facebook.com/iCodeguru/videos/333043499551198)
-   2. [Day 2]()
-   3. [Day 3]()
+   2. [Day 2](https://www.facebook.com/watch/live/?ref=watch_permalink&v=704072318215851)
+   3. [Day 3](https://www.facebook.com/iCodeguru/videos/934994641586671)
    4. [Day 4]()
    5. [Day 5]()
 
