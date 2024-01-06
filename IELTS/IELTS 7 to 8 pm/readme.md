@@ -93,7 +93,7 @@
    1. [Day 1](https://web.facebook.com/iCodeguru/videos/333043499551198)
    2. [Day 2](https://www.facebook.com/watch/live/?ref=watch_permalink&v=704072318215851)
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/934994641586671)
-   4. [Day 4]()
+   4. [Day 4](https://www.facebook.com/iCodeguru/videos/702131045393685)
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/2091174611246507)
 
 <!-- - ## Week 13
