@@ -319,7 +319,7 @@
    1. [Day 1](https://web.facebook.com/iCodeguru/videos/3567139733544653)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/297888249410340)
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/309123338168224)
-   4. [Day 4]()
+   4. [Day 4](https://www.facebook.com/iCodeguru/videos/375527295149829)
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/223145074096362)
 
 <!-- - ## Week 38
