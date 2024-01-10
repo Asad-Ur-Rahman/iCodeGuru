@@ -108,8 +108,8 @@
 - ## Week 14
 
    1. [Day 1 - Dr Zafar session](https://www.facebook.com/iCodeguru/videos/352023890880637)
-   2. [Day 2]()
-   3. [Day 3]()
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/1398175887457570)
+   3. [Day 3](https://www.facebook.com/iCodeguru/videos/7000894856661160)
    4. [Day 4]()
    5. [Day 5]()
 
