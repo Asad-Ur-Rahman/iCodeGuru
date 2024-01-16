@@ -116,7 +116,7 @@
 - ## Week 13
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1027694144962755)
-   2. [Day 2]()
+   2. [Character-Level Language Modeling via Bigrams Workshop](https://www.facebook.com/iCodeguru/videos/1602647703820200)
    3. [Day 3]()
    4. [Day 4]()
    5. [Day 5]()
