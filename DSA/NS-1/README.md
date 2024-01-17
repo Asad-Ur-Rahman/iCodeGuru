@@ -117,7 +117,7 @@
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1027694144962755)
    2. [Character-Level Language Modeling via Bigrams Workshop](https://www.facebook.com/iCodeguru/videos/1602647703820200)
-   3. [Day 3]()
+   3. [Day 3](https://www.facebook.com/iCodeguru/videos/757625902927187)
    4. [Day 4]()
    5. [Day 5]()
 
