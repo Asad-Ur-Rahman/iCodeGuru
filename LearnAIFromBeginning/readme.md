@@ -30,6 +30,11 @@
    1. Day 1 - no session
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/714825570405406)
 
+- ## Week 7
+
+   1. [Day 1](https://web.facebook.com/iCodeguru/videos/3607534109495655)
+   2. [Day 2](https://web.facebook.com/iCodeguru/videos/1084014452789756)
+
 <!-- - ## Week 
 
    1. [Day 1]()
