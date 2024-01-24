@@ -26,8 +26,8 @@
 
 <!-- - ## Week 4
 
-   1. Day 1 - no session
-   2. [Day 2]()
+   1. [Day 1](https://www.facebook.com/iCodeguru/videos/900141008325460)
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/1127343664927346)
    3. [Day 3]()
    4. [Day 4]()
    5. [Day 5]() -->
