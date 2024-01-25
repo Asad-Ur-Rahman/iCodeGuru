@@ -76,8 +76,8 @@
 
    1. [Day 1](https://web.facebook.com/iCodeguru/videos/295711770180636)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/346344504875740)
-   3. [Day 3]()
-   4. [Day 4]()
+   3. Day 3 - no recording availble
+   4. [Day 4](https://www.facebook.com/iCodeguru/videos/739121524548815)
    5. [Day 5]() -->
 
 <!-- - ## Week 
