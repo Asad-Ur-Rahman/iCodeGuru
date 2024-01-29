@@ -121,13 +121,13 @@
    4. [Implementing Data Pipeline in Google Cloud Platform](https://web.facebook.com/iCodeguru/videos/424780746545575)
    5. [Day 5](https://web.facebook.com/iCodeguru/videos/24831315453149883)
 
-<!-- - ## Week 14
+- ## Week 14
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/692803186387243)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/594274729549118)
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/2566914310124116)
-   4. [Day 4]()
-   5. [Day 5](https://www.facebook.com/iCodeguru/videos/902127437965379) -->
+   4. [Day 4](https://www.facebook.com/iCodeguru/videos/1093961975117492)
+   5. [Day 5](https://www.facebook.com/iCodeguru/videos/902127437965379)
 
 <!-- - ## Week 15
 
