@@ -35,10 +35,15 @@
    1. [Day 1](https://web.facebook.com/iCodeguru/videos/3607534109495655)
    2. [Day 2](https://web.facebook.com/iCodeguru/videos/1084014452789756)
 
-<!-- - ## Week 8
+- ## Week 8
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/235394646283819)
-   2. [Day 2](https://www.facebook.com/iCodeguru/videos/266765783099307) -->
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/266765783099307)
+
+<!-- - ## Week 9
+
+   1. [Day 1]()
+   2. [Day 2]() -->
 
 <!-- - ## Week 
 
