@@ -35,8 +35,8 @@
 - ## Week 5
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1345598756101424)
-   2. [Day 2]()
-   3. [Day 3]()
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/689638216395333)
+   3. [Day 3](https://www.facebook.com/iCodeguru/videos/935741514830205)
    4. [Day 4]()
    5. [Day 5]()
 
