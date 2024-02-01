@@ -349,8 +349,8 @@
 - ## Week 41
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1462269937968733)
-   2. [Day 2]()
-   3. [Day 3]()
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/707506838117177)
+   3. [Day 3](https://www.facebook.com/iCodeguru/videos/935375301434174)
    4. [Day 4]()
    5. [Day 5]()
 
