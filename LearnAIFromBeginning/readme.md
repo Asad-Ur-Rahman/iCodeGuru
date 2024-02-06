@@ -40,10 +40,10 @@
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/235394646283819)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/266765783099307)
 
-<!-- - ## Week 9
+- ## Week 9
 
-   1. [Day 1]()
-   2. [Day 2]() -->
+   1. [Day 1](https://www.facebook.com/iCodeguru/videos/918417686107106)
+   2. Day 2 no recording availble
 
 <!-- - ## Week 
 
