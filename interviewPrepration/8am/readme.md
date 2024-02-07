@@ -92,7 +92,7 @@
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/938028244566713)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/1084110512785956)
-   3. [Day 3]()
+   3. Day 3 - no session
    4. [Day 4]()
    5. [Day 5]()
 
