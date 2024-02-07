@@ -354,13 +354,13 @@
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/1818038432003459)
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/3670160329905708)
 
-<!-- - ## Week 42
+- ## Week 42
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/713259757563844)
-   2. [Day 2]()
-   3. [Day 3]()
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/7343373169016752)
+   3. [Day 3](https://www.facebook.com/iCodeguru/videos/2758895740908747)
    4. [Day 4]()
-   5. [Day 5]() -->
+   5. [Day 5]()
 
 <!-- - ## Week 
 
