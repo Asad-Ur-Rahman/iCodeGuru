@@ -59,7 +59,7 @@
 - ## Week 8
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1112202013261865)
-   2. [Day 2]()
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/1329868997696828)
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/1540831893158729)
    4. [Day 4]()
    5. [Day 5]()
