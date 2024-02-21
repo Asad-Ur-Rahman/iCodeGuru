@@ -19,7 +19,7 @@
 - ## Week 3
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/708471584776885)
-   2. [Day 2]()
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/246715981742794)
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/1572313646880681)
    4. [Day 4]()
    5. [Day 5]()
