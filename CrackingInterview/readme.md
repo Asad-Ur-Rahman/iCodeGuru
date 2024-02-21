@@ -8,12 +8,13 @@
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/1438725236753510)
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/1071128900839805)
 
-## Shifted to 6pm
+
 
 <!-- - ## Week 2
 
    1. [Day 1]()
-   2. [Day 2]()
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/3271014569870284)
+   ## Shifted to 6pm
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/7759036074127324)
    4. [Day 4]()
    5. [Day 5]() -->
