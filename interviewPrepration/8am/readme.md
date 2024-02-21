@@ -107,7 +107,7 @@
 - ## Week 14
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/926625712186121)
-   2. [Day 2]()
+   2. Day 2 - no session
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/1365518030767713)
    4. [Day 4]()
    5. [Day 5]()
