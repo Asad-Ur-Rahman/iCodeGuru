@@ -68,7 +68,7 @@
 
 - ## Week 9
 
-   1. [Day 1]()
+   1. [Day 1](https://www.facebook.com/iCodeguru/videos/933388498295384)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/2024674234584364)
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/915637396873788)
    4. [Day 4]()
