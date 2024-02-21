@@ -12,7 +12,7 @@
 
 <!-- - ## Week 2
 
-   1. [Day 1]()
+   1. [Day 1](https://www.facebook.com/iCodeguru/videos/905650994525718)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/3271014569870284)
    ## Shifted to 6pm
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/7759036074127324)
