@@ -16,7 +16,7 @@
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/3271014569870284)
    ## Shifted to 6pm
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/7759036074127324)
-   4. [Day 4]()
+   4. [Day 4](https://www.facebook.com/iCodeguru/videos/1078465526763185)
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/306412742080923)
 
 <!-- - ## Week
