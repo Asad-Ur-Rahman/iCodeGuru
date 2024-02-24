@@ -55,10 +55,10 @@
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/955635599319424)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/355382960731482)
 
-<!-- - ## Week 12
+- ## Week 12
 
    1. [Day 1]()
-   2. [Day 2]() -->
+   2. [Day 2]()
 
 <!-- - ## Week 
 
