@@ -57,7 +57,7 @@
 
 - ## Week 12
 
-   1. [Day 1]()
+   1. [Day 1](https://www.facebook.com/iCodeguru/videos/1041160690308037)
    2. [Day 2]()
 
 <!-- - ## Week 
