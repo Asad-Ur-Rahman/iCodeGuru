@@ -72,13 +72,13 @@
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/368055722662349)
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/414663687703052)
 
-<!-- - ## Week 10
+- ## Week 10
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1115941126210868)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/1219749049006125)
    3. [Day 3]()
    4. [Day 4]()
-   5. [Day 5]() -->
+   5. [Day 5]()
 
 <!-- - ## Week
 
