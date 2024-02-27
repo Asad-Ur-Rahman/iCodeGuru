@@ -64,6 +64,8 @@
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/3715293095455613)
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/7240658082680586)
 
+# Session shifted to 3 PM
+
 <!-- - ## Week 9
 
    1. [Day 1]()
