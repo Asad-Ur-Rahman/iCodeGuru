@@ -116,7 +116,7 @@
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1172923107027757)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/1087288975942878)
-   3. [Day 3]()
+   3. [Day 3](https://www.facebook.com/iCodeguru/videos/1125608225455097)
    4. Day 4 - no session
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/1319332795542261)
 
