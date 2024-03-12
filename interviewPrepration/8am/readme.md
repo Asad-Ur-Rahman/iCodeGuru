@@ -120,6 +120,16 @@
    4. Day 4 - no session
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/1319332795542261)
 
+- ## Week 16
+
+   1. [Day 1](https://www.facebook.com/iCodeguru/videos/1135069787494382)
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/370229722590783)
+   3. [Day 3](https://www.facebook.com/iCodeguru/videos/778624997026849)
+   4. [Day 4](https://www.facebook.com/iCodeguru/videos/1397547234201916)
+   5. [Day 5](https://www.facebook.com/iCodeguru/videos/1140523837381533)
+
+## Session ended
+
 <!-- - ## Week 
 
    1. [Day 1]()
