@@ -91,7 +91,7 @@
 <!-- - ## Week 12
 
    1. [Day 1]()
-   2. [Day 2]()
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/1409444476598074)
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/1166357657693096)
    4. [Day 4]()
    5. [Day 5]() -->
