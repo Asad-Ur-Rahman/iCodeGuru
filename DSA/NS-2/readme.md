@@ -96,13 +96,13 @@
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/1799799487183505)
    5. [Day 5]()
 
-<!-- - ## Week 13
+- ## Week 13
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1504378886775566)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/778794047108929)
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/1176589603717193)
    4. [Day 4]()
-   5. [Day 5]() -->
+   5. [Day 5]()
 
 <!-- - ## Week
 
