@@ -37,5 +37,5 @@
    1. [Day 1]()
    2. [Day 2]()
    3. [Day 3]()
-   4. [Day 4]()
+   4. [Day 4](https://www.facebook.com/iCodeguru/videos/472387198448580)
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/1513664595884067) -->
