@@ -10,7 +10,7 @@
 
 - ## Week 2
 
-   1. [Day 1]()
+   1. Day 1 - no recording
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/431798792671588)
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/1640755956754310)
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/372487272422568)
