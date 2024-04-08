@@ -52,7 +52,7 @@
 
    1. [Day 1]()
    2. [Day 2]()
-   3. [Day 3]()
+   3. [Day 3](https://www.facebook.com/iCodeguru/videos/6999021093559795)
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/425307336774092)
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/1565890787567176) -->
 
