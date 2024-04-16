@@ -1,6 +1,6 @@
 # Python 8 to 9 PM
 
-<!-- - ## Week 
+<!-- - ## Week 1
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1129325528259780)
    2. [Day 2]()
