@@ -1,6 +1,6 @@
 # MLOps 9 to 10 PM
 
-<!-- - ## Week 
+<!-- - ## Week 1
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/346560441764322)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/454133547091032)
