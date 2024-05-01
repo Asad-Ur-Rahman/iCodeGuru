@@ -140,7 +140,7 @@
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/400682996119547)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/799816801719472)
-   3. [Day 3]()
+   3. [Day 3](https://www.facebook.com/iCodeguru/videos/1877372992721835)
    4. [Day 4]()
    5. [Day 5]() -->
 
