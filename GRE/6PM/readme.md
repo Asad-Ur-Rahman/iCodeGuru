@@ -1,4 +1,4 @@
-# GRE 8pm to 7PM 
+# GRE 6pm to 7PM 
 
 - ## Week 1
 
