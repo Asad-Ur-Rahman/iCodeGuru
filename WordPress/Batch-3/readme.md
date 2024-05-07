@@ -1,6 +1,6 @@
-https://www.facebook.com/iCodeguru/videos/1386761135314662
 
-<!-- - ## Week
+
+<!-- - ## Week 1
 
    1. [Day 1]()
    2. [Day 2]()
