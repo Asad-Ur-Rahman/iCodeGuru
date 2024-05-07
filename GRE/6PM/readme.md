@@ -10,7 +10,7 @@
 
 <!-- - ## Week
 
-   1. [Day 1]()
+   1. [Day 1](https://www.facebook.com/iCodeguru/videos/765743462315900)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/745980551070809)
    3. [Day 3]()
    4. [Day 4]()
