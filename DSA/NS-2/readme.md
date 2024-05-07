@@ -147,7 +147,7 @@
 <!-- - ## Week
 
    1. [Day 1]()
-   2. [Day 2]()
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/334350666024288)
    3. [Day 3]()
    4. [Day 4]()
    5. [Day 5]() -->
