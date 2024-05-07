@@ -11,7 +11,7 @@
 <!-- - ## Week 2
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/7567240033334692)
-   2. [Day 2]()
+   2. [Day 2](https://www.facebook.com/watch/?v=1554139908768364)
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/962745408397435)
    4. [Day 4]()
    5. [Day 5]() -->
