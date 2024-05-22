@@ -155,7 +155,7 @@
 <!-- - ## Week 20
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/317642167878836)
-   2. [Day 2]()
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/462267663020593)
    3. [Day 3]()
    4. [Day 4]()
    5. [Day 5]() -->
