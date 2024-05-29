@@ -44,7 +44,7 @@
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/362505580170828)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/1638271086938087)
-   3. [Day 3]()
+   3. [Day 3](https://www.facebook.com/iCodeguru/videos/1154807628902357)
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/794134219105454)
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/1411004769604141) -->
 
