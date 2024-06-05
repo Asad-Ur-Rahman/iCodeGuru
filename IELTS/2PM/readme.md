@@ -78,7 +78,7 @@
    2. Day 2 - [Part 1](https://www.facebook.com/iCodeguru/videos/424874580316671) [Part 2](https://www.facebook.com/iCodeguru/videos/968960731425803)
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/446708364760727)
    4. [Day 4]()
-   5. [Day 5]()
+   5. [Day 5](https://www.facebook.com/iCodeguru/videos/1018187913200941)
 
 <!-- - ## Week 11
 
