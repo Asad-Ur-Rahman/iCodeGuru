@@ -56,13 +56,13 @@
    4. [Day 4]()
    5. [Day 5]()
 
-<!-- - ## Week 8
+- ## Week 8
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/973743067561219)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/997150851760265)
    3. [Day 3]()
    4. [Day 4]()
-   5. [Day 5]() -->
+   5. [Day 5]()
 
 <!-- - ## Week
 
