@@ -88,13 +88,13 @@
    4. [Day 4]()
    5. [Day 5]()
 
-<!-- - ## Week 12
+- ## Week 12
 
    1. [Day 1](https://web.facebook.com/iCodeguru/videos/1021182036246003)
    2. [Day 2]()
    3. [Day 3]()
    4. [Day 4]()
-   5. [Day 5]() -->
+   5. [Day 5]()
 
 <!-- - ## Week 
 
