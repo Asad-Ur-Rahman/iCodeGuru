@@ -26,7 +26,7 @@
 
 <!-- - ## Week
 
-   1. [Day 1]()
+   1. [Day 1](https://www.facebook.com/iCodeguru/videos/953841743144657)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/779085211062984)
    3. [Day 3]()
    4. [Day 4]()
