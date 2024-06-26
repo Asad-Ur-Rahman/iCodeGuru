@@ -75,7 +75,7 @@
 - ## Week 10
 
    1. [Day 1](https://web.facebook.com/iCodeguru/videos/851663716828290)
-   2. [Day 2]()
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/473397642053513)
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/1607417183384351)
    4. [Day 4]()
    5. [Day 5]()
