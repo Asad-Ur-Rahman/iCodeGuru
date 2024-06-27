@@ -5,7 +5,7 @@
    1. [Day 1](https://web.facebook.com/iCodeguru/videos/1183475899669311)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/1246386939677867)
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/991720969327052)
-   4. [Day 4]()
+   4. [Day 4](https://www.facebook.com/iCodeguru/videos/996162298880363)
    5. [Day 5]()
 
 <!-- - ## Week 
