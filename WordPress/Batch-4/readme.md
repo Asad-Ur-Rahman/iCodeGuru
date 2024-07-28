@@ -1,12 +1,12 @@
 # 10PM-11PM PKT WordPress Engineering BootCamp Batch-4
 
-<!-- - ## Week 1
+- ## Week 1
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1196606151374387)
    2. Day 2 - Muharram Holiday
    3. Day 3 - Muharram Holiday
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/3823562941233808)
-   5. [Day 5](https://www.facebook.com/iCodeguru/videos/822695290048760) -->
+   5. [Day 5](https://www.facebook.com/iCodeguru/videos/822695290048760)
 
 <!-- - ## Week 2
 
