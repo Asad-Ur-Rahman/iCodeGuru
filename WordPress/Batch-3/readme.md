@@ -36,14 +36,24 @@
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1016814106700847)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/1167340084406284)
-   3. [Day 3]()
-   4. [Day 4]()
+   3. [Day 3](https://web.facebook.com/iCodeguru/videos/992493665918572)
+   4. [Day 4](https://web.facebook.com/iCodeguru/videos/402903376079215)
+   5. [Day 5](https://web.facebook.com/iCodeguru/videos/1002082877509071)
+
+- ## Week 6
+
+   1. [Day 1](https://web.facebook.com/iCodeguru/videos/808475014583284)
+   2. [Day 2](https://web.facebook.com/iCodeguru/videos/1162865644747668)
+   3. [Day 3](https://web.facebook.com/iCodeguru/videos/1162837918527105)
+   4. [Day 4](https://web.facebook.com/iCodeguru/videos/365644512796563)
+   5. [Day 5](https://web.facebook.com/iCodeguru/videos/1644330216393260)
+
+- ## Week 7
+
+   1. [Day 1](https://www.facebook.com/iCodeguru/videos/1468729934526461)
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/771151111853995)
+   3. [Day 3](https://www.facebook.com/iCodeguru/videos/2135804380119984)
+   4. [Day 4](https://www.facebook.com/iCodeguru/videos/1982626908858466)
    5. [Day 5]()
 
-<!-- - ## Week
-
-   1. [Day 1]()
-   2. [Day 2]()
-   3. [Day 3]()
-   4. [Day 4]()
-   5. [Day 5]() -->
+### Session ended
