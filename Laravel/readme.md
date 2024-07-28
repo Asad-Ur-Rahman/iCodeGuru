@@ -1,6 +1,6 @@
 # 8AM-9AM PKT Laravel Crash Course
 
-<!-- - ## Week 
+<!-- - ## Week 1
 
    1. [Day 1]()
    2. [Day 2]()
