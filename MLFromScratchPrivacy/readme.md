@@ -1,6 +1,6 @@
 # 7AM PKT Machine Learning from Scratch and it's Privacy
 
-<!-- - ## Week
+<!-- - ## Week 1
 
    1. [Day 1]()
    2. [Day 2]()
