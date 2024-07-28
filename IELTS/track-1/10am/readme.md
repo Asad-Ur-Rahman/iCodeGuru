@@ -8,13 +8,13 @@
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/1130186744936211)
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/2641160382723904)
 
-<!-- - ## Week 2
+- ## Week 2
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/515775934349792)
    2. Day 2 - Muharram Holiday
    3. Day 3 - Muharram Holiday
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/780467513965477)
-   5. [Day 5](https://www.facebook.com/iCodeguru/videos/476967391600825) -->
+   5. [Day 5](https://www.facebook.com/iCodeguru/videos/476967391600825)
 
 <!-- - ## Week 
 
