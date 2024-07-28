@@ -51,8 +51,8 @@
 <!-- - ## Week 7
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1029058952153333)
-   2. [Day 2]()
-   3. [Day 3]()
+   2. Day 2 - Muharram Holidays
+   3. Day 3 - Muharram Holidays
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/849490743289477)
    5. [Day 5]() -->
 
