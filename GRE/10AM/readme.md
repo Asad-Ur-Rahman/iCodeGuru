@@ -1,6 +1,6 @@
 # 10 AM PKT - GRE Prep to Secure Fully Funded Scholarships
 
-<!-- - ## Week 
+<!-- - ## Week 1
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1582296325672528)
    2. [Day 2]()
