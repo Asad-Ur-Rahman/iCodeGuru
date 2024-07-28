@@ -1,4 +1,4 @@
-# 9PM Dulingo 
+# 9PM Dulingo
 
 - ## Week 1
 
