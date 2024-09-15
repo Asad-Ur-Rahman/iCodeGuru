@@ -10,7 +10,7 @@
 
 <!-- - ## Week 
 
-   1. [Day 1]()
+   1. [Day 1](https://www.facebook.com/watch/?v=3426790517625889)
    2. [Day 2]()
    3. [Day 3]()
    4. [Day 4]()
