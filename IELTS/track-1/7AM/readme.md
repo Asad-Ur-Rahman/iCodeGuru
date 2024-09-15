@@ -51,7 +51,7 @@
 <!-- - ## Week 7
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1225081775189732)
-   2. [Day 2]()
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/913182177305003)
    3. [Day 3]()
    4. [Day 4]()
    5. [Day 5]() -->
