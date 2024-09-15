@@ -32,13 +32,13 @@
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/1211895329958291)
    5. [Day 5](https://www.facebook.com/iCodeguru/videos/1060467568773961)
 
-<!-- - ## Week 5
+- ## Week 5
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1192349481891843)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/902585231689823)
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/1539020493703815)
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/1185353142615759)
-   5. [Day 5](https://www.facebook.com/iCodeguru/videos/524190630167691) -->
+   5. [Day 5](https://www.facebook.com/iCodeguru/videos/524190630167691)
 
 <!-- - ## Week 6
 
