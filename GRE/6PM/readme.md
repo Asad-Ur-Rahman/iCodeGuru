@@ -114,7 +114,7 @@
 
 # New Subsession
 
-<!-- - ## Week 
+<!-- - ## Week 1
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/510474328020569)
    2. [Day 2]()
