@@ -1,6 +1,6 @@
 # 11PM PKT Mastering MongoDB Harnessing the Power of NoSQL
 
-<!-- - ## Week 
+<!-- - ## Week 1
 
    1. [Day 1]()
    2. [Day 2]()
