@@ -1,4 +1,4 @@
-# TReal World Project in AI, ML and DL Mastery
+# Real World Project in AI, ML and DL Mastery
 
 - ## Week 1
 
