@@ -1,6 +1,6 @@
 # Track1:10PM-11PM PKT Duolingo Prep For Fully Funded Scholarships
 
-<!-- - ## Week 
+<!-- - ## Week 1
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/845309277687012)
    2. [Day 2]()
