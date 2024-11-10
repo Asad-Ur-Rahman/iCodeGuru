@@ -19,8 +19,8 @@
 <!-- - ## Week 3
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1069002547682206)
-   2. [Day 2]()
-   3. [Day 3]()
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/500153669668224)
+   3. [Day 3](https://www.facebook.com/iCodeguru/videos/8729654610418363)
    4. [Day 4]()
    5. [Day 5]() -->
 
