@@ -43,7 +43,7 @@
 <!-- - ## Week 6
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/2763263373841358?st=917G0YbxYRn)
-   2. [Day 2]()
+   2. [Day 2](https://www.facebook.com/iCodeguru/videos/918519363511832)
    3. [Day 3]()
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/990857329466340)
    5. [Day 5]() -->
