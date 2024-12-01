@@ -1,6 +1,6 @@
 # 7PM PKT Advanced WordPress Engineering BootCamp Batch6
 
-- ## Week 
+- ## Week 1
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1079639590131188)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/922553386450345)
