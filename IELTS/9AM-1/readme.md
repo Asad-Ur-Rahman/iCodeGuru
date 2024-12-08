@@ -27,7 +27,7 @@
 <!-- - ## Week 4
 
    1. [Day 1](https://www.facebook.com/watch/?v=604886595318141)
-   2. [Day 2]()
+   2. Day 2 [Part 1](https://www.facebook.com/watch/?v=1807523533353533) [Part 2](https://www.facebook.com/watch/?v=914643447305631)
    3. [Day 3]()
    4. [Day 4]()
    5. [Day 5]() -->
