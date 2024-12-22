@@ -1,4 +1,4 @@
-# 1PM PKT Duolingo Prep For Fully Funded Scholarships
+# 10PM PKT Duolingo Prep For Fully Funded Scholarships
 
 - ## Week 1
 
