@@ -1,6 +1,6 @@
 # 6AM PKT FAANG Interview Preparation BootCamp-II
 
-<!-- - ## Week 
+<!-- - ## Week 1
 
    1. [Day 1]()
    2. [Day 2]()
