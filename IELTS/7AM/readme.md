@@ -11,7 +11,7 @@
 <!-- - ## Week 2
 
    1. [Day 1](https://www.facebook.com/watch/?v=1349206082671525)
-   2. [Day 2]()
+   2. [Day 2](https://www.facebook.com/watch/?v=27873152508965979)
    3. [Day 3]()
    4. [Day 4]()
    5. [Day 5]() -->
