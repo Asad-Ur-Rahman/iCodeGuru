@@ -20,7 +20,7 @@
 
    1. [Day 1](https://www.facebook.com/watch/?v=410847058684178)
    2. [Day 2](https://www.facebook.com/watch/?v=564380606367036)
-   3. [Day 3]()
+   3. [Day 3](https://www.facebook.com/watch/?v=514032244995285)
    4. [Day 4]()
    5. [Day 5]() -->
 
