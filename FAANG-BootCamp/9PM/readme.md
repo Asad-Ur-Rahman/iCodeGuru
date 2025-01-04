@@ -1,6 +1,6 @@
 # 9PM - 11PM PKT FAANG Interview Prep Bootcamp-1
 
-<!-- - ## Week 
+<!-- - ## Week 1
 
    1. [Day 1]()
    2. [Day 2]()
