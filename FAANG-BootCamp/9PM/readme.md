@@ -22,11 +22,3 @@
    3. [Day 3](https://www.facebook.com/iCodeguru/videos/1648141849393081)
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/1152697742892584)
    5. [Day 5]()
-
-<!-- - ## Week 
-
-   1. [Day 1]()
-   2. [Day 2]()
-   3. [Day 3]()
-   4. [Day 4]()
-   5. [Day 5]() -->
