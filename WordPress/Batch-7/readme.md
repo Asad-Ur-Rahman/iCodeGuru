@@ -1,6 +1,6 @@
 # 7PM PKT Advance WordPress Engineering Bootcamp Batch7
 
-<!-- - ## Week 
+<!-- - ## Week 1
 
    1. [Day 1]()
    2. [Day 2]()
