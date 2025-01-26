@@ -1,6 +1,6 @@
 # 3AM PKT FAANG Interview Prep Boot Camp
 
-- ## Week 
+- ## Week 1
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/983263390323647)
    2. [Day 2](https://www.facebook.com/iCodeguru/videos/1004045594890282)
