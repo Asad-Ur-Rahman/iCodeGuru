@@ -1,6 +1,6 @@
 # 12PM PKT Machine Learning Mastering Course
 
-<!-- - ## Week 
+<!-- - ## Week 1
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/630868269440066)
    2. [Day 2]()
