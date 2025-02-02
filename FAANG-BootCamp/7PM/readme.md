@@ -1,6 +1,6 @@
 # 7pm-pkt-faang-interview-prep-bootcamp
 
-<!-- - ## Week 
+<!-- - ## Week 1
 
    1. [Day 1]()
    2. [Day 2]()
