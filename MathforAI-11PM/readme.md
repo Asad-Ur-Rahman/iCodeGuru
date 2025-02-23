@@ -1,6 +1,6 @@
 # 11AM PKT Mathematics for Artificial Intelligence
 
-<!-- - ## Week 
+<!-- - ## Week 1
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1304382264039058)
    2. [Day 2]()
