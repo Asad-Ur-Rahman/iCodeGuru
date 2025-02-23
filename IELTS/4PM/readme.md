@@ -40,7 +40,7 @@
    4. [Day 4](https://www.facebook.com/iCodeguru/videos/28569521349359522)
    5. [Day 5]() -->
 
-<!-- - ## Week 
+<!-- - ## Week 6
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1148041806915823)
    2. [Day 2]()
