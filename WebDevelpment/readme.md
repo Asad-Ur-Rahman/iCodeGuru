@@ -1,6 +1,6 @@
 # 9PM PKT Web Development Unleashed from Beginner to Pro
 
-<!-- - ## Week 
+<!-- - ## Week 1
 
    1. [Day 1](https://www.facebook.com/iCodeguru/videos/1356852915737911)
    2. [Day 2]()
