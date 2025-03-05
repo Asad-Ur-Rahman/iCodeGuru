@@ -25,9 +25,9 @@
    4. [Day 4](https://www.facebook.com/watch/?v=1409177067157076)
    5. [Day 5](https://www.facebook.com/watch/?v=607391665477180)
 
-<!-- - ## Week 
+<!-- - ## Week 4
 
-   1. [Day 1]()
+   1. [Day 1](https://www.facebook.com/watch/?v=2049551692215799)
    2. [Day 2]()
    3. [Day 3]()
    4. [Day 4]()
