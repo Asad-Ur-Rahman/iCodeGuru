@@ -8,7 +8,7 @@
    4. [Day 4](https://www.facebook.com/watch/?v=609048275318573)
    5. [Day 5](https://www.facebook.com/watch/?v=685310467393069)
 
-<!-- - ## Week 7
+<!-- - ## Week 
 
    1. [Day 1](https://www.facebook.com/watch/?v=1384115122770690)
    2. [Day 2]()
